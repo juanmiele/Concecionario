@@ -1,0 +1,10 @@
+C:\Users\hollo\3D Objects\uai\LENGUAJES DE ÚLTIMA GENERACIÓN\Clase4\Concecionario\Concecionario\obj\Debug\Concecionario.csprojAssemblyReference.cache
+C:\Users\hollo\3D Objects\uai\LENGUAJES DE ÚLTIMA GENERACIÓN\Clase4\Concecionario\Concecionario\obj\Debug\Concecionario.Properties.Resources.resources
+C:\Users\hollo\3D Objects\uai\LENGUAJES DE ÚLTIMA GENERACIÓN\Clase4\Concecionario\Concecionario\obj\Debug\Concecionario.csproj.GenerateResource.cache
+C:\Users\hollo\3D Objects\uai\LENGUAJES DE ÚLTIMA GENERACIÓN\Clase4\Concecionario\Concecionario\obj\Debug\Concecionario.csproj.CoreCompileInputs.cache
+C:\Users\hollo\3D Objects\uai\LENGUAJES DE ÚLTIMA GENERACIÓN\Clase4\Concecionario\Concecionario\bin\Debug\Concecionario.exe.config
+C:\Users\hollo\3D Objects\uai\LENGUAJES DE ÚLTIMA GENERACIÓN\Clase4\Concecionario\Concecionario\bin\Debug\Concecionario.exe
+C:\Users\hollo\3D Objects\uai\LENGUAJES DE ÚLTIMA GENERACIÓN\Clase4\Concecionario\Concecionario\bin\Debug\Concecionario.pdb
+C:\Users\hollo\3D Objects\uai\LENGUAJES DE ÚLTIMA GENERACIÓN\Clase4\Concecionario\Concecionario\obj\Debug\Concecionario.exe
+C:\Users\hollo\3D Objects\uai\LENGUAJES DE ÚLTIMA GENERACIÓN\Clase4\Concecionario\Concecionario\obj\Debug\Concecionario.pdb
+C:\Users\hollo\3D Objects\uai\LENGUAJES DE ÚLTIMA GENERACIÓN\Clase4\Concecionario\Concecionario\obj\Debug\Concecionario.Form1.resources
